@@ -1,7 +1,7 @@
 package redis_util
 
 import (
-	"fmt"
+	// "fmt"
 	"github.com/pquerna/ffjson/ffjson"
 	"gopkg.in/redis.v5"
 	"log"
